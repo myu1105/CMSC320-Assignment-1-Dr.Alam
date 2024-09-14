@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: [Data science could be applied to the field of business since it could analyze and explore data collected in everyday sales, eventually 
     being able to draw conclusions about performance and future business decisions.]
+
+    
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Merging combines two branches into one, rebasing add changes to another brand and makes it appear linearly]
